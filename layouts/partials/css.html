@@ -1,6 +1,37 @@
 <style>
-    <!-- This will remove the shadow on the navbar -->
-    nav {
-      box-shadow: none;
-    }
-  </style>
+  html {
+    scroll-behavior: smooth;
+    background: linear-gradient(rgba(173,215,232,1), rgba(255,166,115,1));
+  }
+
+  header, nav, main, .about, .contact{
+    background-color: rgba(0,0,0,0);
+  }
+
+  header, nav{
+    backdrop-filter: blur(40px)
+  }
+
+  a:hover {
+    color: #fff;
+  }
+
+  .contact form {
+    padding: 2rem;
+  }
+  
+  input[type="submit"]:hover, textarea[type="submit"]:hover {
+   background-color: #212121;
+   color: #fff;
+   cursor: pointer;
+  }
+
+  .contact #form-submit {
+    width: 100%;
+  }  
+
+  input[type="submit"], textarea[type="submit"] {
+    background-color: #fff;
+    color: #212121;
+}
+</style>
