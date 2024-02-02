@@ -1,7 +1,7 @@
 ---
 title: "I'm Maheesha Dias"
-date: 2024-01-20T15:21:48Z
-draft: true
+date: 2024-02-02T12:30:00Z
+draft: false
 ---
 
-A filmaker and tech enthusiast based in England.
+An up and coming **filmmaker** currently studying film, media and production. Based in the UK, I use my passion for the medium of film as an outlet for expression and thought.
