@@ -5,6 +5,6 @@ image = "leaving-a-wedding-alone.png"
 alt = "Leaving A Wedding Alone" 
 color = "#fff" 
 link1 = "https://youtu.be/4oY0zxQ9iFQ?si=n95s4tMpYcpOqdV9" 
-link2 = "https://youtu.be/4oY0zxQ9iFQ?si=n95s4tMpYcpOqdV9"
+link2 = ""
 
 +++
